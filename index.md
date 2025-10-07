@@ -19,9 +19,9 @@ Akdeniz Üniversitesi Bilgisayar Programcılığı bölümünde öğrenciyim. Bu
 
 [Blog linki]: Kodlama ipuçları, teknoloji incelemeleri ve kariyer deneyimlerim üzerine yazılar.
 
-### 📚 Hakkımda
+### 📚 [Hakkımda](/about/)
 
-[Hakkımda Sayfasına Git](/about/): Detaylı özgeçmişime, yeteneklerime ve iletişim kanallarıma ulaşabilirsiniz.
+Detaylı özgeçmişime, yeteneklerime ve iletişim kanallarıma ulaşabilirsiniz.
 
 ---
 **Hemen başlayın:** [En son yazımı okuyun] veya [Tüm projelerimi inceleyin]!
