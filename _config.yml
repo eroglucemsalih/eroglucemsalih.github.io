@@ -1,5 +1,28 @@
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal # Veya seçtiğiniz geçerli tema adı
 plugins:
-- jekyll-remote-theme
-title: Salih Cem Eroğlu
-description: Sayfama hoş geldiniz! Yeni güncellemeler için sayfamı sık kullanılanlar kısmına eklemeyi unutmayın!
+  - jekyll-remote-theme
+
+# --------------------------
+# SİTE TEMEL BİLGİLERİ
+# --------------------------
+
+# Tarayıcı sekmesinde ve ana sayfada görünen ana başlık
+title: Cem'in Oyun Alanı
+
+# Sitenizin kısa bir açıklaması (SEO için çok önemli!)
+description: Yazılım projelerimi, teknoloji deneyimlerimi ve teknik makalelerimi paylaştığım kişisel geliştirici portfolyom.
+
+# Sitenin yazarı
+author: Salih Cem Eroğlu
+
+# Alt kısımda görünecek yıl (opsiyonel)
+# year: 2025 
+
+# --------------------------
+# İLETİŞİM/SOSYAL MEDYA
+# --------------------------
+
+# Jekyll temaları genellikle bu bilgileri otomatik ikon olarak gösterir.
+github_username: eroglucemsalih # Kendi GitHub kullanıcı adınızı yazın
+linkedin_username: https://www.linkedin.com/in/salih-cem-ero%C4%9Flu/ # Parantezleri silip sadece adı yazın
+email: eroglucemsalih@gmail.com
