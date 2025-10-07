@@ -21,7 +21,7 @@ Akdeniz Üniversitesi Bilgisayar Programcılığı bölümünde öğrenciyim. Bu
 
 ### 📚 Hakkımda
 
-[/about/]: Detaylı özgeçmişime, yeteneklerime ve iletişim kanallarıma ulaşabilirsiniz.
+[Hakkımda Sayfasına Git](/about/): Detaylı özgeçmişime, yeteneklerime ve iletişim kanallarıma ulaşabilirsiniz.
 
 ---
 **Hemen başlayın:** [En son yazımı okuyun] veya [Tüm projelerimi inceleyin]!
