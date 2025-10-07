@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal # Veya seçtiğiniz geçerli tema adı
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
 # --------------------------
 # SİTE TEMEL BİLGİLERİ
