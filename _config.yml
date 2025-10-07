@@ -1,0 +1,5 @@
+remote_theme: pages-themes/Cvless
+plugins:
+- jekyll-remote-theme
+title: Salih Cem Eroğlu
+description: Sayfama hoş geldiniz! Yeni güncellemeler için sayfamı sık kullanılanlar kısmına eklemeyi unutmayın!
